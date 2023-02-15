@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author hyun
+ *
+ */
+module DesignPattern {
+}
